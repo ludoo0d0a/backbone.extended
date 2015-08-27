@@ -48,7 +48,7 @@ BackboneExtend.setup(Backbone);
     }
     
     //Do not remove placeholder
-    if (opts && opts.empty){
+    if (this.$el && opts && opts.empty){
       this.$el.empty();
     }else{
       this.remove();//will call stopListening

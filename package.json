@@ -1,6 +1,6 @@
 {
-  "name": "Backbone.extended",
-  "version": "1.0.0",
+  "name": "backbone.extended",
+  "version": "1.0.1",
   "description": "Add several missing basic features to Backbone",
   "main": "backbone.extended.js",
   "scripts": {
