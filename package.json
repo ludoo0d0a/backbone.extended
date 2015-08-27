@@ -1,0 +1,25 @@
+{
+  "name": "Backbone.extend",
+  "version": "1.0.0",
+  "description": "Add several missing basic features to Backbone",
+  "main": "backbone.extend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ludoo0d0a/backbone.extended.git"
+  },
+  "keywords": [
+    "backbone",
+    "zombie",
+    "close",
+    "patch"
+  ],
+  "author": "Ludovic Valente",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ludoo0d0a/backbone.extended/issues"
+  },
+  "homepage": "https://github.com/ludoo0d0a/backbone.extended"
+}
