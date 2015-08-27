@@ -3,7 +3,7 @@
 /*
 Enhance Backbone
 Usage : 
-BackboneExtend = require('backbone.extend');
+BackboneExtend = require('backbone.extended');
 BackboneExtend.setup(Backbone);
 */
 (function (root, factory) {
@@ -64,7 +64,7 @@ BackboneExtend.setup(Backbone);
   
   //TODO: dummy unuseful log function
   Backbone.setup = function(){
-    console.log("Backbone extend activated");
+    console.log("Backbone.extended activated");
   };
 
   return Backbone;

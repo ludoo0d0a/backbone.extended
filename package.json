@@ -1,8 +1,8 @@
 {
-  "name": "Backbone.extend",
+  "name": "Backbone.extended",
   "version": "1.0.0",
   "description": "Add several missing basic features to Backbone",
-  "main": "backbone.extend.js",
+  "main": "backbone.extended.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
